@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    border: 3px solid yellow;
+    justify-content: center;
+    align-items: center;
+    width:90rem;
+    height:45rem;
+    background-color:rgb(206, 206, 206);
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.main {
+    display:flex;
+    border:3px solid black;
+    background-color: rgb(168, 166, 166);
+    width:40rem;
+    height: 40rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+p {
+    color:red;
+}
+
+label{
+    display: flex;
+}
+
+input{
+    display:flex;
+}
